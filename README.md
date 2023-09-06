@@ -1,4 +1,4 @@
-# Image_captioning
+# Image Captioning with Encoder-Decoder Architecture
 
 ## Overview
 This project focuses on creating an image captioning model based on the encoder-decoder architecture. The primary goal is to generate descriptive captions for images automatically. To achieve this, we have leveraged a pre-trained VGG16 model as an encoder for extracting image features and implemented a feed-forward neural network with LSTM layers as the decoder.
